@@ -44,4 +44,4 @@ ex) gzgzg2.md
 
 #### Reference 
 - https://github.com/road-of-craftsman/study-elegant-object
-- https://github.com/CS-Oh-Yeahs/os_study
+- https://github.com/CS-Oh-Yeahs/os_study    
