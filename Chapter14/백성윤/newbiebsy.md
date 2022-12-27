@@ -44,4 +44,4 @@
 #### 모든 예외의 할아버지는 java.lang.Throwable 클래스다.
 > Exception과 Error 클래스는 Throwable 클래스를 상속받아 처리하도록 되어 있다.   
 > 이는 모두 동일한 메소드를 사용하여 처리할 수 있도록 하기 위함이다.   
-> 많이 사용하는 메소드에는 getMessage(), toString(), printStackTrace()가 있다.
+> 많이 사용하는 메소드에는 getMessage(), toString(), printStackTrace()가 있다. 
