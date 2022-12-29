@@ -1,4 +1,4 @@
-# ❓14장 String
+# ❓15장 String
    
 ## String에 대해 알아봐요
 String 클래스는  더 이상 이 클래스를 확장 할 수 없게 하기 위해서 final 클래스이다.<br>
